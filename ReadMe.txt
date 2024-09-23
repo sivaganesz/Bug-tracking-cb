@@ -39,6 +39,12 @@ Tester Login screen is in :
 
 	http://localhost:3000/Tester_login
 
+
+
+postgredql pgAdmin and postgresql server install and create a database - name 'bug_tracking'
+
+
+
 Manager Login screen is in :
 	
 	http://localhost:3000/Manager_login
